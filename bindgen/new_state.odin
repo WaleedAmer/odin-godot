@@ -1,3 +1,4 @@
+#+feature dynamic-literals
 package bindgen
 
 import "core:fmt"
